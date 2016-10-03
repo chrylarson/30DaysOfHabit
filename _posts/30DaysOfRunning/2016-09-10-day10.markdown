@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 10"
+date:   2016-09-10 21:45:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Amazing weather, running with my oldest in the stroller, what a great run!
+
+<amp-img width="600" height="450" alt="Day 10 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day10.jpg "></amp-img>

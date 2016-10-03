@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 15"
+date:   2016-09-15 08:02:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Read the first chapter of “What I Talk About When I Talk About Running” by Haruki Murakami. The discipline of running is much bigger than I first envisioned. After 15 days of running I’m starting to see that I know nothing.
+
+<amp-img width="600" height="450" alt="Day 15 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day15.jpg "></amp-img>

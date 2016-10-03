@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 17"
+date:   2016-09-17 08:39:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Both boys came along in the stroller today. They love the outdoors. 
+
+<amp-img width="600" height="450" alt="Day 17 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day17.jpg "></amp-img>

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 12"
+date:   2016-09-12 22:31:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+A wonderful run around Lady Bird Lake in Austin, TX. First time running on a loose gravel surface. The extra balance required made the run more fun.
+
+<amp-img width="600" height="450" alt="Day 12 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day12.jpg "></amp-img>

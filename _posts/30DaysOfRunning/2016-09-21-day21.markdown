@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Day 21"
+date:   2016-09-21 08:44:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+> Success is like running.
+>
+>Simple, not easy.
+>
+>Runners jump out the door and start running.
+>
+>Lazy people talk about all the painful steps.
+>
+
+Today I focused on my foot falls. For all 5,069 steps I made sure my toes were straight and my body in balance.
+
+<amp-img width="600" height="450" alt="Day 21 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day21.jpg "></amp-img>

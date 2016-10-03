@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 19"
+date:   2016-09-19 12:23:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Perfect day for a run. 
+
+Cool and partly cloudy.
+
+Also, made good time.
+
+<amp-img width="600" height="450" alt="Day 19 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day19.jpg "></amp-img>

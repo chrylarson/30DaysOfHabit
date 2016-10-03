@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 28"
+date:   2016-09-28 12:33:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Cold. 
+
+Race day conditions are not known ahead of time. I am ready because I train in all weather.
+
+<amp-img width="600" height="450" alt="Day 28 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day28.jpg "></amp-img>

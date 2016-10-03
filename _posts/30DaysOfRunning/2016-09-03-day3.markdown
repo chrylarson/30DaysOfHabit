@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 3"
+date:   2016-09-03 08:44:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Family. 
+
+I took my boys in the stroller along for this run. I'm going to be the fittest dad. 
+
+<amp-img width="600" height="450" alt="Day 3 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day3.jpg "></amp-img>

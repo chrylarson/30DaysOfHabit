@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 8"
+date:   2016-09-08 12:06:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Sunshine and cool weather made for an awesome time running.
+
+<amp-img width="600" height="450" alt="Day 8 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day8.jpg "></amp-img>

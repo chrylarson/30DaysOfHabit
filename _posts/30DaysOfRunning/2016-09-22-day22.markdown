@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 22"
+date:   2016-09-22 12:21:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+>The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.
+>
+>
+> -- <cite>Henry Miller</cite>
+
+<amp-img width="600" height="450" alt="Day 22 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day22.jpg "></amp-img>

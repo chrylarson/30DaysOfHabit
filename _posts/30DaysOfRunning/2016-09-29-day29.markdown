@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 29"
+date:   2016-09-29 11:54:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Wow! 29 days of running in a row. 
+
+One day left. Honestly, I felt like it was going to be a long and difficult task. Turns out that one day at a time and all of a sudden I’m at day 29.
+
+<amp-img width="600" height="450" alt="Day 29 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day29.jpg "></amp-img>

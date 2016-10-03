@@ -1,17 +1,19 @@
 ---
 layout: default
+title: Running
+permalink: /30DaysOfRunning/
 ---
 
 <main class="content" role="main">
 
   <header class="blog-header">
-      <h1 class="blog-title">{{ site.title }}</h1>
-      <h2 class="blog-description">{{ site.description }}</h2>
+      <h1 class="blog-title">30 Days Of Running</h1>
+      <h2 class="blog-description">Forming a daily habit of running</h2>
   </header>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains 'writing' and post.categories contains '30days' %}
+      {% if post.categories contains 'running' and post.categories contains '30days' %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

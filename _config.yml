@@ -6,22 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Awesome Site Title
-email: your-email@domain.com
+title: 30 Days of Habit
+email: hi@chrislarson.me
 description: >
-  Awesome site description here
-logo: "/assets/images/logo.jpg"
+  Forming a daily habit of writing
+logo: "/img/profile.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://chrislarson.me" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Chris Larson'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
-author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+  September is my birthday month. This year I'm doing something special for myself. I'm giving my future 40 year old self a birthday present.
+author_image: "/img/profile.jpg"
+twitter_username: chrylarson
+github_username:  chrylarson
 
 # Build settings
 markdown: kramdown

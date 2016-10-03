@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 18"
+date:   2016-09-18 08:44:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Committed to running every. Single. day. 
+
+I forced my body out the door for a run today.
+
+Good run after the first kilometer was behind me.
+
+<amp-img width="600" height="450" alt="Day 18 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day18.jpg "></amp-img>

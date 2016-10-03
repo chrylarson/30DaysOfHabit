@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 14"
+date:   2016-09-14 09:07:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Refreshing start to my day! It was tough to motivate myself to get going, but once I was on the trail my body woke up and ran.
+
+<amp-img width="600" height="450" alt="Day 14 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day14.jpg "></amp-img>

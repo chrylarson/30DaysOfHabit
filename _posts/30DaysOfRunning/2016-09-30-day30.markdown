@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 30"
+date:   2016-09-30 11:57:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Personal Record! 
+
+Wow! Amazing! 
+
+I finished 30 Days of Running 5km every single day. This feels great. I set a goal. Followed a plan. Then, achieved the goal.
+
+### What’s next?
+
+<amp-img width="600" height="450" alt="Day 30 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day30.jpg "></amp-img>

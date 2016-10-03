@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day 20"
+date:   2016-09-20 12:19:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Balance.
+
+At the end of my run today I took inventory of my pain points. I imagine myself to be a sphere balancing on a wire. Any pain points will cause me to topple.
+
+While checking my balance I noticed that my right foot was feeling tension. Turns out I had been curling my toes for the past 20 days of running. That explains the blisters on that foot.
+
+I released the tension and straightened my toes. It felt strange to let go. I immediately noticed my balance improve. After 20 days of running I’m only beginning to learn the art of running. 
+
+Running is going to be a lifelong habit. 
+
+<amp-img width="600" height="450" alt="Day 20 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day20.jpg "></amp-img>

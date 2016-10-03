@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 5"
+date:   2016-09-05 08:44:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+The holiday weekend has given me plenty of opportunity to load up on carbs. :) Today's run was fueled by carbs. 
+
+<amp-img width="600" height="450" alt="Day 5 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day5.jpg "></amp-img>

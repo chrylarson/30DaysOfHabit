@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 6"
+date:   2016-09-06 11:57:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+> Rain! I love the rain! 
+
+Today was a personal record day! WooHoo! Seems that the rain gave me extra strength. :)
+
+<amp-img width="600" height="450" alt="Day 6 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day6.jpg "></amp-img>

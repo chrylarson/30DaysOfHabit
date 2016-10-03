@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 1"
+date:   2016-09-01 08:44:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Walking into the office I over hear my 39yr old coworker saying, 
+> You spend your whole life wrecking your body. Then after 40 you have to start taking care of yourself.
+>
+> -- <cite>39yr old coworker</cite>
+
+<amp-img width="600" height="450" alt="Day 1 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day1.jpg "></amp-img>

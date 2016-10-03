@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 27"
+date:   2016-09-27 11:48:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+My coworkers are starting to run during lunch break! This is amazing to see other people getting healthier too.
+
+<amp-img width="600" height="450" alt="Day 27 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day27.jpg "></amp-img>

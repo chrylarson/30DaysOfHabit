@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 25"
+date:   2016-09-25 20:18:00 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Started practicing my next 30 Day Challenge. It’s sort of like a warm up jog to the start line. I started running 5km most days of the week before I started the 30 Days of Running. Now I’m practicing my next 30 day challenge in preparation.
+
+<amp-img width="600" height="450" alt="Day 25 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day25.jpg "></amp-img>

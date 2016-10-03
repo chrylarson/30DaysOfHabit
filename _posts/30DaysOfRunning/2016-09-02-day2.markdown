@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 2"
+date:   2016-09-02 08:44:20 -0500
+categories: 30days running
+---
+# Today’s motivation:
+
+Today’s motivation comes from my work team’s quote board. We have a giant list of inspirational quotes that are displayed every time we log into our dashboard. 
+> The one who wins the race in the long run is usually not the strongest or the fastest, but the one who has tried the hardest.
+>
+
+<amp-img width="600" height="450" alt="Day 2 - Snapped a screenshot at 5km" layout="responsive" src="{{ site.baseurl }}/img/day2.jpg "></amp-img>
