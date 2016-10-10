@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Day 10"
+date:   2016-10-10 07:02:00 -0500
+categories: 30days writing
+---

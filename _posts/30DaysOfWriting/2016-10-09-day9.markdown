@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day 9"
+date:   2016-10-09 20:15:00 -0500
+categories: 30days writing
+---
+Energy.
+
+The best way to wakeup is to go for a short run.
