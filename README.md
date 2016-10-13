@@ -284,3 +284,5 @@ MIT. See LICENSE file in repo.
       <a class="older-posts disabled">Newer posts &rarr;</a>
     {% endif %}
   </nav>
+
+max-age=1209600
