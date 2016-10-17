@@ -285,4 +285,8 @@ MIT. See LICENSE file in repo.
     {% endif %}
   </nav>
 
-max-age=1209600
+//2 weeks
+max-age=1209600 
+
+//24 hours
+max-age=86400
