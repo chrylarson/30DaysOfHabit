@@ -17,6 +17,46 @@ In ten years I will complete 120 goals. Wow! That is a lot of progress and all I
 
 Steady, consistent commitments, 30 days at a time.
 
-### [30 Days of Running]({{ site.baseurl }}/30DaysOfRunning/)
+## September 2016
 
-### [30 Days of Writing]({{ site.baseurl }}/30DaysOfWriting/)
+###  - [30 Days of Running]({{ site.baseurl }}/30DaysOfRunning/)
+
+## October 2016
+
+###  - [30 Days of Writing]({{ site.baseurl }}/30DaysOfWriting/)
+
+## November 2016
+
+###  - 30 Days of Scheduling
+
+## December 2016
+
+###  - 30 Days of Family
+
+## January 2017
+
+###  - 30 Days of Awesome
+
+## February 2017
+
+###  - 30 Days of Sleeping
+
+## March 2017
+
+###  - 30 Days of Finance
+
+## April 2017
+
+###  - 30 Days of Goal Setting
+
+## May 2017
+
+###  - 30 Days of Reading
+
+## June 2017
+
+###  - 30 Days of Fear
+
+## July 2017
+
+###  - 30 Days of Habits
