@@ -9,15 +9,25 @@ layout: default
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
 
+<p>
+I can’t believe it has taken me this long to realize that I need to improve. In hindsight it seems obvious. Of course I need to continually get better. Something happened, life happened or whatever other convenient excuse happened. I got comfortable, lazy. I stopped improving.
+</p><p>
+I was fine for a while. I’m a top performer. A little slide in performance doesn’t register. Until a little over a long time becomes a lot. I had to do something. Things need to change. What could I do? I’m busy. I’m committed to important things. I can’t make a radical change. 
+</p><p>
+I can make a small change, lots of small changes. Then I’ll stack them together. Lots of small changes overtime become big changes. I’m making small changes every 30 days. I’m stacking my small changes together over a year. 
+</p><p>
+Small improvements over time become big improvements. Life changing improvements. 
+</p><p>
+Welcome to my steady journey to becoming the best me I can be.
+</p>
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.categories contains 'writing' and post.categories contains '30days' %}
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
           </h2>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <p>
           {{post.content}}
           </p>
