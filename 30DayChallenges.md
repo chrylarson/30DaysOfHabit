@@ -27,7 +27,7 @@ Steady, consistent commitments, 30 days at a time.
 
 ## November 2016
 
-###  - 30 Days of Scheduling
+###  - [30 Days of Gratitude]({{ site.baseurl }}/30DaysOfGratitude/)
 
 ## December 2016
 
