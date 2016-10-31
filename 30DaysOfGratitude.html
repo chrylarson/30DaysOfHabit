@@ -15,7 +15,7 @@ permalink: /30DaysOfGratitude/
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains 'Gratitude' and post.categories contains '30days' %}
+      {% if post.categories contains 'gratitude' and post.categories contains '30days' %}
         <li>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
