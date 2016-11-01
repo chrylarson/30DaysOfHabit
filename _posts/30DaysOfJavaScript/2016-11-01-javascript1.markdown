@@ -8,3 +8,5 @@ Tasks:
 * Create a repository
 * Write the README file
 * Read chapter 4, Modules
+
+[30 Days Of JavaScript GitHub Repo](https://github.com/chrylarson/30DaysOfJavaScript)
