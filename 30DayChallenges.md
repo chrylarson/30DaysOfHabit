@@ -29,6 +29,8 @@ Steady, consistent commitments, 30 days at a time.
 
 ###  - [30 Days of Gratitude]({{ site.baseurl }}/30DaysOfGratitude/)
 
+###  - [30 Days of JavaScript]({{ site.baseurl }}/30DaysOfJavaScript/)
+
 ## December 2016
 
 ###  - 30 Days of Family
