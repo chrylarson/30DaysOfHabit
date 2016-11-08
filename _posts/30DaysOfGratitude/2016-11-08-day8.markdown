@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 8"
+date:   2016-11-08 09:25:00 -0500
+categories: 30days gratitude
+---
+* I’m grateful for lazy mornings
+* I’m grateful for birthday parties
+* I’m grateful for open source software
+* I’m grateful for green grass in the fall
+* I’m grateful for the frozen cold
