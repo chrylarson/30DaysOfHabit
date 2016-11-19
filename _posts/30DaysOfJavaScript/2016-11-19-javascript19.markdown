@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 19"
+date:   2016-11-19 09:49:00 -0500
+categories: 30days javascript
+---
+Tasks:
+
+* Take the JavaScript Roadtrip Course
+
+[JavaScript Road Trip ](http://javascript-roadtrip.codeschool.com/)
