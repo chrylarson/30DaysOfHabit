@@ -3,7 +3,7 @@ layout: post
 title:  "Emulate Android and Bluetooth LE hardware"
 date:   2014-03-04 12:28:00 -0500
 categories: blog tutorial
-permalink: /blog/emulate-android-and-bluetooth-le-hardware
+permalink: /blog/emulate-android-and-bluetooth-le-hardware/
 ---
 <amp-img width="600" height="450" alt="Emulate Android and Bluetooth LE hardware" layout="responsive" src="{{ site.baseurl }}/img/home-automation.png "></amp-img>
 Android emulators are great for developing BluetoothLE applications. The trick is getting the Android emulator to recognize the BluetoothLE adapter.

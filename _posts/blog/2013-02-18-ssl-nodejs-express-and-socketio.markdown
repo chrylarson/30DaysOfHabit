@@ -3,7 +3,7 @@ layout: post
 title:  "SSL with node.js, express and socket.io"
 date:   2013-02-18 12:51:00 -0500
 categories: blog tutorial
-permalink: /blog/ssl-nodejs-express-and-socketio
+permalink: /blog/ssl-nodejs-express-and-socketio/
 ---
 Using HTTPS with express is almost as simple as replacing `require('http')` with `require('https')`. For my application I am using a self-signed certificate that I created after following the directions on [Nate Good's blog](http://blog.nategood.com/client-side-certificate-authentication-in-ngi). I placed the certs in a folder called cert.
 

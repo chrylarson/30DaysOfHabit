@@ -3,7 +3,7 @@ layout: post
 title:  "How to use Cordova on Ubuntu to build Android apps"
 date:   2014-03-04 12:28:00 -0500
 categories: blog tutorial
-permalink: /blog/how-use-cordova-ubuntu-build-android-apps
+permalink: /blog/how-use-cordova-ubuntu-build-android-apps/
 ---
 <amp-img width="600" height="450" alt="How to use Cordova on Ubuntu to build Android apps" layout="responsive" src="{{ site.baseurl }}/img/cordova-apps-for-android.png "></amp-img>
 Building native HTML and JavaScript apps for Android can be done with Apache Cordova on Ubuntu.
