@@ -286,7 +286,7 @@ MIT. See LICENSE file in repo.
   </nav>
 
 //2 weeks
-max-age=1209600 
+max-age=1209600
 
 //24 hours
 max-age=86400
