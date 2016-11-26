@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 26"
+date:   2016-11-26 13:40:00 -0500
+categories: 30days javascript
+---
+Tasks:
+
+* Learn about Progressive Web Apps
+
+[Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0)
+
