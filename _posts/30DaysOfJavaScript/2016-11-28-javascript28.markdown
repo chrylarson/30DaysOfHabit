@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 28"
+date:   2016-11-28 09:17:00 -0500
+categories: 30days javascript
+---
+Tasks:
+
+* Read JavaScript: The Good Parts
+
+[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
