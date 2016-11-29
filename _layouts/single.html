@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html ⚡ lang="en">
-  {% include head.html %}
-  <body>
-    {% include ga.html %}
-    {% include header.html %}
+<html lang="en">
+{% include head-no-amp.html %}
+<body>
+  {% include ga-no-amp.html %} 
+  {% include header-no-amp.html %}
+  <main class="content" role="main">
+      {{content}}
+  </main>
 
-    {{ content }}
-  </body>
+  {% include footer.html %}
+</body>
+
 </html>

@@ -89,6 +89,10 @@ body {
 
 }
 
+.move-right {
+  text-align: right;
+}
+
 .blog-header {
   width: 100%;
   max-width: 700px;
@@ -512,8 +516,8 @@ pre {
     opacity: 0;
 }
 
- /* Layout */
-  
+ /* Layout */ 
+
   .ck_form.ck_minimal {
     /* divider image */
     overflow: hidden;
@@ -668,7 +672,7 @@ pre {
   .ck_modal.ck_form_v6,
   .ck_slide_up.ck_form_v6 .ck_minimal,
   .ck_modal.ck_form_v6 .ck_minimal {
-    min-width: 0 !important;
+    min-width: 0;
   }
   
   @media all and (min-width: 801px) {
