@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "What is the Industrial Internet of Things?"
+date:   2016-12-02 09:11:00 -0500
+categories: 30days iiot
+---
+What's IIoT?
+
+**Sarcastic Answer:** It’s marketing hype.
+
+**My Answer:** The Industrial Internet of Things is the belief that communication between machines improves the ROI of a factory. 
+
+The Industrial Internet of Things is a belief. The belief in IIoT takes many forms. Articles about IIoT share a vision of the future. The industrial internet of things is permission to dream about what could be possible. It is a platform for building fantastic visions for the factory of the future that we can build today.

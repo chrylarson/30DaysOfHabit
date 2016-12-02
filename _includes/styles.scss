@@ -621,6 +621,24 @@ pre {
     float: left;
     height: 42px;
   }
+
+  .crl_button {
+    width: 100%;
+    color: #fff;
+    margin: 0px;
+    padding: 11px 0px;
+    font-size: 18px;
+    background: #0d6db8;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    /* border radius */
+    cursor: pointer;
+    border: none;
+    text-shadow: none;
+    float: left;
+    height: 42px;
+  }
   
   .ck_form.ck_minimal .ck_guarantee {
     color: #626262;

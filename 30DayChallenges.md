@@ -33,7 +33,7 @@ Steady, consistent commitments, 30 days at a time.
 
 ## December 2016
 
-###  - 30 Days of Family
+###  - [30 Days of Industrial Internet of Things]({{ site.baseurl }}/30DaysOfIIoT/)
 
 ## January 2017
 

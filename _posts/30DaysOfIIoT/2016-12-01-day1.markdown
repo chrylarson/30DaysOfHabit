@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 1"
+date:   2016-12-01 11:11:00 -0500
+categories: 30days iiot
+---
+The next 30 days are dedicated to writing about the industrial internet of things. I’m sharing my experiences in manufacturing, machine building and test & measurement. I’ve built machines for giant fortune 50s and tiny mom and pop shops that make window treatments. Every project had some sort of connectivity to a computer, the industrial internet.
+
+
+The rules for writing about the Industrial Internet of Things for these 30 days are simple: text only. No pictures, no diagrams, nothing outside of standard markdown. This will be an exercise in clearly articulating my technical knowledge in English. Starting in January I’ll share code, diagrams and video. During the month of December I’m limited to text.
