@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IIoT Is An Old Idea"
+date:   2016-12-03 19:44:00 -0500
+categories: 30days iiot
+---
+The industrial internet of things is an old idea. It has been growing since clipboards were used to record productivity. The manual process of measuring, analyzing and adjusting is the basis of the Industrial Internet of Things. A well organized factory records key metrics on a monthly, weekly or even daily schedule. The key metrics are analyzed over many months. Trends and opportunities are discovered in the analyzed data.
+
+The processes that are used today to optimize ROI are the same processes that are being used in the Industrial Internet of Things. IIoT makes the processes faster and more efficient. If your factory doesn’t have a manual process then you need that first. Before you can get value from IIoT you need to get value from a good process. 
