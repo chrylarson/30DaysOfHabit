@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Know The Baseline"
+date:   2016-12-05 09:09:00 -0500
+categories: 30days iiot
+---
+The production rate of every machine in the factory should be measured and recorded in one database. This is easily accomplished with 10 year old technology. Most machines can be instrumented for a couple hundred dollars. The database can be run from a leftover PC. This simple setup is a great proof of concept to get additional funding approved. The stakeholders will be impressed with the beautiful charts in [Kibana](https://www.elastic.co/products/kibana).

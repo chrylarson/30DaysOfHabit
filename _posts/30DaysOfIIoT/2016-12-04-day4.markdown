@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "IIoT Is Simple"
+date:   2016-12-04 20:45:00 -0500
+categories: 30days iiot
+---
+IIoT is simple (and can be cheap… shhh, don’t tell Allen-Bradley, Siemens or Inductive Automation.) Yes, the Industrial Internet of Things is simple. Measure, analyze, and react.
+
+**Measure** - Many machines don’t record simple metrics like widgets per hour. Put a photoelectric sensor at the end of the conveyor belt and start counting.
+
+**Analyze** - Load [Elasticsearch and Kibana](https://www.elastic.co/) onto an old laptop.
+
+**React** - Look at the Kibana dashboard and make some decisions based on what you see
