@@ -1,32 +1,31 @@
----
-layout: default
-title: Tutorials
-permalink: /30DaysOfIIoT/
----
+--- layout: default title: Tutorials permalink: /30DaysOfIIoT/ ---
 
 <main class="content" role="main">
 
   <header class="blog-header">
-      <h1 class="blog-title">30 Days Of Industrial Internet of Things
+    <h1 class="blog-title">30 Days Of Industrial Internet of Things
     </h1>
-      <h2 class="blog-description">Writing about the Industrial Internet of Things for the next 30 days
+    <h2 class="blog-description">Writing about the Industrial Internet of Things for the next 30 days
     </h2>
+    <p>
+      The rules for writing about the Industrial Internet of Things for these 30 days are simple: text only. No pictures, no diagrams,
+      nothing outside of standard markdown. This will be an exercise in clearly articulating my technical knowledge in English.
+      Starting in January I’ll share code, diagrams and video. During the month of December I’m limited to text.
+    </p>
   </header>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      {% if post.categories contains 'iiot' and post.categories contains '30days' %}
-        <li>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-          </h2>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <p>
-          {{post.content}}
-          </p>
-        </li>
-      {% endif %}
-    {% endfor %}
+    {% for post in site.posts %} {% if post.categories contains 'iiot' and post.categories contains '30days' %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+      </h2>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <p>
+        {{post.content}}
+      </p>
+    </li>
+    {% endif %} {% endfor %}
   </ul>
 
 </main>

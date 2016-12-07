@@ -16,7 +16,7 @@ permalink: /blog/
       {% if post.categories contains 'blog' %}
         <li>
           <h2>
-            <a class="post-link" href="{{ post.url | remove: '.html' | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
           </h2>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <p>

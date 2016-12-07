@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The Internet side of IIoT"
+date:   2016-12-07 10:34:00 -0500
+categories: 30days iiot
+---
+The internet portion of IIoT is a bit misleading. In industrial settings we don’t typically connect our networks to the actual internet. Instead the **inter**net is an **intra**net. An intranet is only available to people inside the company.
+
+Networking industrial equipment and machines is a tough job. Industrial environments are electrically noisy, dirty, too hot, too cold, too wet, or too dry. Industrial environments are at the extremes of what typical electronics are designed for. The harsh environments require specialized electronics, enclosures and cables. 
+
+The industrial internet is just like the world wide web internet. The cables and equipment are more robust, but the core functionality is the same. The same architectures and software run the internet for your mobile phone and your factory. Counter intuitively the best people to design the internet side of IIoT are the same people who design websites and mobile phone games.

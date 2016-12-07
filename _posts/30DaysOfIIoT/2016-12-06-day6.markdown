@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The cross section of skills required for IIoT"
+date:   2016-12-06 09:18:00 -0500
+categories: 30days iiot
+---
+The industrial internet of things lives at the intersection between machine builders and web developers. It is an odd cross section of old industrial knowledge and modern web knowledge.
+
+The industrial knowledge is required to know what to measure and how to measure it. Great machine operators have a sixth sense about the performance of their machine. They know the sounds and sights that indicate what actions they need to take to bring the machine to peak efficiency.
+
+The expert industrial knowledge is required to know what sensors to use and how to install them. Industrial machines live within a unique ecosystem of standards and best practices. It isn’t feasible to slap on a hobby kit and start taking measurements. Solutions need to be built for harsh environments that include vibrations, moisture, temperature swings, high voltages, noisy RF bands and rough handling. 
