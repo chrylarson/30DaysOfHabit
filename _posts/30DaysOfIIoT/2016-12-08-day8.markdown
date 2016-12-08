@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "IIoT security is difficult"
+date:   2016-12-08 15:16:00 -0500
+categories: 30days iiot
+---
+Security is your top priority. All internet connected devices will eventually be compromised. If you are lucky the compromised device will be someone else's and you will have time to patch your own. IIoT solutions need to be designed knowing that they will eventually be compromised. How will the system be made safe? How will the impact be contained? How will the system be patched?
