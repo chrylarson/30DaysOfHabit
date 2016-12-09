@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Easy is not the same as useful"
+date:   2016-12-09 09:06:00 -0500
+categories: 30days iiot
+---
+There is a trend in the Internet of Things space that favors the easily achievable. Companies like SmartThings, Nest and Particle solve the easy problems. These problems are not valuable. Wall Street doesn’t think Nest is doing well. I think it is because Nest solved an easy problem and not a valuable problem.
+
+We are at a point where hardware is cheap and easily produced. Advances in custom manufacturing make it possible to dream up a design in a weekend and ship it in a couple months. We have a deluge of half-baked devices. The long term value to the consumer isn’t present. 
+
+The Industrial Internet of Things is in a position to improve valuable industrial processes. Factories become more efficient when they collect and react to machine production data. IIoT promises to make production data quickly available. The flow of the factory improves when the upstream machines match the production rates of their downstream machines. Production waste and warehouse space are saved. 
+
+IIoT doesn’t need to be revolutionary or advanced. IIoT can ignore the buzz about Artificial Intelligence and still improve the bottom line. The core IIoT functionality is enough to make significant improvements to factories. We don’t have to wait for the quantum leap that the consumer IoT market is waiting for. Factories benefit from simply “turning the lights” on their production data. In the industrial internet of things even the half-baked ideas are poised to improve ROI.
