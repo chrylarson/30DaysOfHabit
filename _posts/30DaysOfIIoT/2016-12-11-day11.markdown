@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "IIoT is a means to an end"
+date:   2016-12-12 09:47:00 -0500
+categories: 30days iiot
+---
+Articles about the Industrial Internet of Things are filled with exciting technology and opportunities. I enjoy reading these articles. The articles often miss the true value of IIoT. The value of IIoT is boring. The technology that delivers the most value for IIoT is boring. There isn’t a science fiction related story or a moment of discovery. 
+
+The value of IIoT is simply seeing better what is already happening in your factory. IIoT is an incremental improvement. Instead of reading weekly reports about productivity, you can read hourly reports or even watch in real-time. There isn’t an amazing process improvement. There is the ability to make faster decisions with more complete information. 
+
+IIoT is simply another tool.

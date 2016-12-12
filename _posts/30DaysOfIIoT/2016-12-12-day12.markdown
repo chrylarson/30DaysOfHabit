@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Set it and forget it"
+date:   2016-12-12 11:38:00 -0500
+categories: 30days iiot
+---
+IIoT should be forgotten. I should be able to setup my IIoT solution then forget it.
+
+No fancy animations.
+
+No daily emails.
+
+No lights and flash.
+
+IIoT should do its job. It should run and report. When I need it I should be able to immediately get only what I need. Then, move on to my next task.

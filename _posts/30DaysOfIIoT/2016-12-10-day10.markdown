@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "My niche IIoT"
+date:   2016-12-11 17:28:00 -0500
+categories: 30days iiot
+---
+The Industrial Internet of Things has attracted lots of attention. Promoters have taken advantage of the attention with loosely related products and ideas. This has caused the scope of IIoT to balloon and dilute. IIoT now includes everything from Machine Learning, Artificial Intelligence, Lights Out Factories on one end; to strip chart recorders, OEE, Six Sigma, and MES on the other. 
+
+IoT is a dizzying spectrum of ideas and technologies. I’ve chosen to focus on one small piece of the IIoT topic. I’m focusing on the enabling technology of data acquisition. Machine learning, AI and Process Improvements depend on quality data acquisition. The physical network requirements for collecting data also enable controlling industrial processes.
