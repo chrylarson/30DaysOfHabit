@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Sometimes the easy is also the valuable"
+date:   2016-12-13 09:42:00 -0500
+categories: 30days iiot
+---
+IIoT is easy after the marketing fantasies are cleared out of the way. Poor marketers get a lot of heat from… well everyone. This is especially true with IIoT where the topic is easily abused to get eyeballs to read a new website. In the process the core value of IIoT has been muddled. 
+
+The core of IIoT is simply to make factories better. The fantasies about artificial intelligence and machine learning are a small piece of the IIoT pie. These fancy technologies are not needed for a factory to realize immediate gains. The core connectivity of IIoT will immediately benefit every factory. 
+
+The core of IIoT is simple and immediately valuable.
