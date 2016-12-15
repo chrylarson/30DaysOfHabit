@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "IIoT and the inertia imposed by the old guard"
+date:   2016-12-14 09:07:00 -0500
+categories: 30days iiot
+---
+Business is tough. Once you get a customer you want to keep a customer. It turns out that a consistent way to keep corporate customers is to utilize inertial.
+
+I want to go home early in the day. I don’t want to learn a new thing, debug a new thing, or install a new thing. I want to be as efficient as possible in my own job. I want my personal work to be the best it can be. 
+
+My goal of being the best I can is often in opposition to the corporation being the best it can. If a new technology comes along that will make the corporation more money, I personally have no incentive to install it, learn it and use it. I personally am doing great with the old tech. I personally am getting rewards and recognition for the old tech. 
+
+The new tech would destroy the expertise I have built. I would no longer be the go to person. I would lose my status in the company. Personally I have no incentive to adopt a new tech. It just so happens that I am also the best person to introduce and adopt the new tech.
+
+Here’s the problem: the people who are the best to introduce a new tech are also the least incentivised to introduce that new tech. They are also in the position of most authority to reject new tech proposed by others.
+
+What to do about this ROI depressing scenario? 
+
+Mandates from above could be issued. That assumes the CTO knows the minutia about the tech. The CTO has more important opportunities to pursue. 
+
+The CEO could introduce a culture of innovation. The problem there is innovation is vague and difficult to measure. This creates loads of tension and angst as people try to be more innovative. 
+
+Grass roots engineers could sneak the tech in. Small projects and low visible solutions could introduce the ROI improving technology. Stay out of site of the old guard. Then present the results to the stakeholders. Little by little these new technologies would replace the old inefficient tech stack. 

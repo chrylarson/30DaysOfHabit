@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "IIoT is not DCS"
+date:   2016-12-14 09:07:00 -0500
+categories: 30days iiot
+---
+I read a disturbing summary of a new IIoT product. The old world company planned to tack on IIoT capability to its flagship DCS product. 
+
+Yikes!
+
+Don’t do that! 
+
+DCS has an important job to do and cannot be interrupted by IIoT. DCS data is predictable and secure. IIoT is mutable and shared with front office managers whose PCs are connected to the internet at large. Bridging DCS and office computers is a bad idea.

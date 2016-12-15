@@ -1,0 +1,25 @@
+---
+layout: single
+title: Keycode
+permalink: /tools/keycode/
+---
+<main class="content" role="main">
+
+  <header class="blog-header">
+      <h1 class="blog-title">Keycodes</h1>
+      <h2 class="blog-description">Type a key to see its keycode</h2>
+  </header>
+
+    <h1><span id="code"></span></h1>
+    <h4><span id="key"></span></h4>
+</main>
+
+<script>
+    window.addEventListener('keydown', function(e) {
+        const key = document.querySelector('#key');
+        const code = document.querySelector('#code');
+        key.innerHTML = e.key;
+        code.innerHTML = e.keyCode;
+        console.log(e);
+    });
+</script>
