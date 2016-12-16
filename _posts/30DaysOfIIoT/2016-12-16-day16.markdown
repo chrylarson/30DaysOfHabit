@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Benefits of a Fulltime Developer"
+date:   2016-12-16 09:57:00 -0500
+categories: 30days iiot
+---
+Every factory needs a resident software developer. Information technology is moving rapidly. There are many small wins that an onsight developer can quickly capture. In some cases an opportunity can be identified and the ROI capture in under an hour. Most of these opportunities would be missed. The inertia of writing a spec, determining the scope of work and collecting bids would hinder the short-term benefit. An onsight developer can identify and implement in one sitting.
