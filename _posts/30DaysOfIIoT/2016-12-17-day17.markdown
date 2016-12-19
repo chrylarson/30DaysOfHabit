@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Just start"
+date:   2016-12-17 20:49:00 -0500
+categories: 30days iiot
+---
+Industrial Internet of Things is complicated. There are so many niches and opportunities. The only way to start receiving the benefit of IIoT is to just start. Pick a machine and add telemetry to it. Any vendor or system is fine. Just start. The telemetry data will reveal the opportunity. 
+
+Start with one machine.

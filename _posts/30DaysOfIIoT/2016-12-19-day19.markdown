@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Handcrafted Analytics"
+date:   2016-12-19 09:07:00 -0500
+categories: 30days iiot
+---
+When I was a machine builder the best insights came from manually assembling the product. I’d gather all the materials and by hand I’d put the product together. Each step in the process would require unique movements. The process of handcrafting an eventually mass produced product taught me the subtleties that need to become part of the final machine.
+
+The same is true with IIoT data. Manually querying and graphing the data is important for learning the shape of the data. Manual queries reveal the important variables. It becomes quickly apparent when a variable is missing or under sampled. 
+
+Before a factory can benefit from Machine Learning and Artificial Intelligence it needs to see its data. The shape of the data needs to be known. The type of ML or AI will be determined by the nature of the data. The nature of the data is best determined by querying and graphing by hand.

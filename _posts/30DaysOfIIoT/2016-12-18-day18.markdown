@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Clipboards are the hot new tech"
+date:   2016-12-18 20:59:00 -0500
+categories: 30days iiot
+---
+Seriously. Clipboards are the most advanced technology a factory can utilize.
+
+Start becoming aware. To relate this to woo woo psychology, clipboards are mindfulness for factories. The process of recording numbers every hour creates a culture of knowing and measuring. It is the first step to true IIoT. 
+
+If a factory doesn’t know its numbers on a hourly clipboard level then adding IIoT will not be an improvement. IIoT is just as much about culture as it is about technology. IIoT requires a culture of measuring and improving. It is the next rung of the ladder. 
+
+The first ladder rung is clipboards and hourly records. The second rung is automated measurements. The third rung is automated corrections. The 3rd rung is where artificial intelligence and machine learning start to shine.
+
+Get out the clipboards and start a culture of measuring everything.
