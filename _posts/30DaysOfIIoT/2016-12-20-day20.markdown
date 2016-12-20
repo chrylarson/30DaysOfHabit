@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "What to measure?"
+date:   2016-12-20 09:25:00 -0500
+categories: 30days iiot
+---
+Like a writer staring at a blank page, engineers are overwhelmed when starting a new IIoT project. 
+What is important to measure?
+
+How will we measure it? 
+
+How often will we measure it? 
+
+How long will we keep the measurements?
+
+Where will we keep the measurements?
+
+How will we display the measurements?
+
+How will we query the measurements?
+
+How much disk storage will we need?
+
+Who will need access to the measurements?
+
+How will we power the measurement devices?
+
+How will we network the measurement devices?
+
+…
+
+…
+
+And so many more questions
+
+…

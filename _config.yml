@@ -12,7 +12,7 @@ description: >
   Forming a daily habit 30 days at a time
 logo: "/img/profile.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chrislarson.me" # the base hostname & protocol for your site
+url: "https://chrislarson.me" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Chris Larson'
@@ -30,3 +30,4 @@ kramdown:
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
