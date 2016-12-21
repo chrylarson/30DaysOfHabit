@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Predictive Maintenance Myth"
+date:   2016-12-21 09:18:00 -0500
+categories: 30days iiot
+---
+The dashboard light on my car came on last month. Along with the light a message was displayed each time I turned on the car. The brake pad monitor was telling me the brake pads had worn thin. This type of predictive maintenance was built in when the car was new.
+
+Most cars can’t tell when the brake pads are thin. It requires a special type of brake pad with a built in sensor. In order for an old car to take advantage of predictive maintenance it would need to be fitted with custom brake pads that include a sensor. Then a computer and wiring would need to be added to monitor the new sensor.
+
+Marketing materials sell predictive maintenance as a magical device set on an old machine that automatically knows when to alert of maintenance issues. I imagine it to be like tossing an Amazon Echo into the car’s glove box and expecting it to report when the brake pads are thin. 
+
+Predictive Maintenance is not that simple.
+
+Instead of adding sensors and computers, most car owners would benefit from taking their car in for inspection every 10,000 miles or 6 months. The mechanic checks 140 or so things and one of them is the thickness of each brake pad. Fancy IIoT is not required most of the time. Most of the time what is required is a clipboard. 
+
+IIoT is nothing until good daily practices are in place at the factory.
