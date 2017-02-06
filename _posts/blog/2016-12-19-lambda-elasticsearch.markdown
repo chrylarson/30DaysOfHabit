@@ -79,7 +79,7 @@ I setup an AWS API Gateway in front of this Lambda function. To get the header d
 
 I setup a GET method for my API Resource. For the GET method I modified the *Integration Request* by setting the *Body Mapping Templates* to the first option, When no template matches the request Content-Type header.
 
-Then I added a Content-Type of application/json and for the template I selected Generate template: *Method request passthrough*. This creates a mapping the passes all the header data to the Lambda function.
+Then I added a Content-Type of application/json and for the template I selected Generate template: *Method request passthrough*. This creates a mapping that passes all the header data to the Lambda function.
 
 ### Integration Request, Body Mapping Templates, application/json, Method request passthrough mapping template
 ~~~~

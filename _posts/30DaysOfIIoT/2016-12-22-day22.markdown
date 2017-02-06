@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Getting value from your data"
+date:   2016-12-23 08:38:00 -0500
+categories: 30days iiot
+---
+Collecting data is easy. 
+
+Analyzing data is fun. 
+
+Preparing collected data for analysis is difficult. 
+
+Recently I started moving my websites off of Google Analytics. Instead of using Google, I’ve setup my own web traffic analytics. Collecting traffic data and links was easy. It took about an hour to set up.
+
+Analyzing data is easy as well. There are a couple amazing projects that handle large amounts of data. I’m using [Kibana from elastic.co](https://www.elastic.co/products/kibana). Kibana has a fun interface for creating all sorts of amazing looking graphs.
+
+The difficult part is transforming the log files from my web server and loading them into [Elasticsearch](https://www.elastic.co/products/elasticsearch), the backend for Kibana. 
+
+The data is stored in individually compressed files created once an hour from each of my webservers. The log files are not consistent. The format for each log entry is roughly the same. Data might be appended or omitted depending on the information available at the time of the log event.
+
+I need a complex piece of software to uncompress new log files, look for duplicate entries, combine files from each server into one file, and then load that file into Elasticsearch. Most of the time a Data Scientist isn’t doing data analysis. Most of the time is spent transforming data from one format to another.

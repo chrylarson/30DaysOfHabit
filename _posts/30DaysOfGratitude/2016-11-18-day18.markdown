@@ -4,6 +4,7 @@ title:  "Day 18"
 date:   2016-11-18 08:23:00 -0500
 categories: 30days gratitude
 ---
+
 * I’m grateful for rain
 * I’m grateful for giraffes
 * I’m grateful for curiosity

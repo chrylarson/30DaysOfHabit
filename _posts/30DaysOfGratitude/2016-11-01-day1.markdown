@@ -4,6 +4,7 @@ title:  "Day 1"
 date:   2016-11-01 08:29:00 -0500
 categories: 30days gratitude
 ---
+
 * I'm grateful for a hot cup of coffee
 * I'm grateful for crisp, cool mornings
 * I'm grateful for running paths along the river

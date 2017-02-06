@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Vacation"
+date:   2017-01-03 21:47:00 -0500
+categories: 30days iiot
+---
+Finished out 2016 on a relaxing vacation with my favorite people, read lots more books and enjoyed life.
+
+Welcome 2017!

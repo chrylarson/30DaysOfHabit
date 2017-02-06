@@ -121,6 +121,18 @@ body {
   }
 }
 
+.previous-next {
+  .left {
+    float: left;
+    width: 47%;
+  }
+  .right {
+    float: right;
+    text-align: right;
+    width: 47%;
+  }
+}
+
 .content {
   width: 100%;
   max-width: 700px;
@@ -639,6 +651,14 @@ pre {
     float: left;
     height: 42px;
   }
+
+  .previous {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
   
   .ck_form.ck_minimal .ck_guarantee {
     color: #626262;
@@ -719,4 +739,10 @@ pre {
   
   .ck_slide_up.ck_form_v6 .ck_minimal h3.ck_form_title {
     margin-top: 5px;
+  }
+
+  .pixel {
+    width:1px;
+    height:1px;
+    display:none;
   }
